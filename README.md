@@ -24,3 +24,11 @@ Dijkstra execution time: 0.000603142 seconds
 Matrix Multiplication Execution time: 0.000001378 seconds
 0 1 Knapsack DP execution time: 0.000082493 seconds
 Karatsuba Multiplication Execution time: 0.022068936 seconds
+
+**C#**
+Merge Sort - Execution time: 0.0002384 seconds
+Quick Sort - Execution time: 0.0001559 seconds
+Dijkstra - Execution time: 0.0048638 seconds
+Matrix Multiplication - Execution time: 4.53E-05 seconds
+0 1 Knapsack DP - Execution time: 4.32E-05 seconds
+Karatsuba Multiplication - Execution time: 0.0060185 seconds
