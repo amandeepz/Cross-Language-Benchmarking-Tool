@@ -101,7 +101,7 @@ Each algorithm was implemented using the same logical design pattern in every la
 
 ## **🔍 Key Observations**
 
-Rust and C++ consistently deliver the fastest execution due to low-level control and minimal runtime overhead.  
-Python shows higher execution times due to interpreter overhead.  
-Java and C# perform competitively but incur managed-runtime costs.  
-Karatsuba multiplication highlights recursion and string-handling overhead differences across languages.  
+- Rust and C++ consistently deliver the fastest execution due to low-level control and minimal runtime overhead.  
+- Python shows higher execution times due to interpreter overhead.  
+- Java and C# perform competitively but incur managed-runtime costs.  
+- Karatsuba multiplication highlights recursion and string-handling overhead differences across languages.  
