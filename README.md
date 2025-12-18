@@ -52,6 +52,18 @@ Each algorithm was implemented using the same logical design pattern in every la
 - Algorithmic optimization & complexity analysis  
 
 ## **📊 Benchmark Results**
+
+### Results in Tabular Form
+| Algorithm / Language | C++ | Python | Java | C# | Rust |
+|---------------------|-----|--------|------|----|------|
+| Merge Sort | 0.00001175 | 0.000018667 | 0.000011712 | 0.000238400 | 0.000001589 |
+| Quick Sort | 0.000001231 | 0.000009734 | 0.000007004 | 0.000155900 | 0.000000503 |
+| Matrix Multiplication | 0.000000790 | 0.000008861 | 0.000001378 | 0.000045300 | 0.000000636 |
+| Dijkstra Algorithm | 0.000001718 | 0.000171226 | 0.000603142 | 0.004863800 | 0.000001146 |
+| 0/1 Knapsack DP | 0.000004012 | 0.000014480 | 0.000082493 | 0.000043200 | 0.000000777 |
+| Karatsuba Multiplication | 0.000017366 | 0.000399020 | 0.022068936 | 0.006018500 | 0.000014516 |
+
+
 ### _⏱ Execution Time Comparison (in seconds)_
 
 ### **C++**
