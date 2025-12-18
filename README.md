@@ -19,12 +19,12 @@ Demonstrate strong algorithmic and systems-level engineering skills
 The following 6 widely-used and computationally intensive algorithms were selected:
 
 Algorithm	Category
-Merge Sort	- Divide & Conquer
-Quick Sort	- Divide & Conquer
-Matrix Multiplication	- Linear Algebra
-Dijkstra’s Algorithm	- Graph Algorithms
-0/1 Knapsack (DP)	- Dynamic Programming
-Karatsuba Multiplication	- Advanced Arithmetic
+Merge Sort	- Divide & Conquer  
+Quick Sort	- Divide & Conquer  
+Matrix Multiplication	- Linear Algebra  
+Dijkstra’s Algorithm	- Graph Algorithms  
+0/1 Knapsack (DP)	- Dynamic Programming  
+Karatsuba Multiplication	- Advanced Arithmetic  
 
 Each algorithm was implemented using the same logical design pattern in every language to ensure fairness.
 
@@ -32,11 +32,11 @@ Each algorithm was implemented using the same logical design pattern in every la
 
 Languages
 
-C++
-Python
-Java
-C#
-Rust
+C++  
+Python  
+Java  
+C#  
+Rust  
 
 **Core Technologies & Concepts**
 
