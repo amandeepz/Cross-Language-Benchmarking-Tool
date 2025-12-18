@@ -51,9 +51,10 @@ Each algorithm was implemented using the same logical design pattern in every la
   - std::time::Instant (Rust)  
 - Algorithmic optimization & complexity analysis  
 
-## **📊 Benchmark Results**
+## **📊 Benchmark Results in Tabular Form**
 
-### Results in Tabular Form
+### _⏱ Execution Time Comparison (in seconds)_
+
 | Algorithm / Language | C++ | Python | Java | C# | Rust |
 |---------------------|-----|--------|------|----|------|
 | Merge Sort | 0.00001175 | 0.000018667 | 0.000011712 | 0.000238400 | 0.000001589 |
@@ -64,52 +65,7 @@ Each algorithm was implemented using the same logical design pattern in every la
 | Karatsuba Multiplication | 0.000017366 | 0.000399020 | 0.022068936 | 0.006018500 | 0.000014516 |
 
 
-### _⏱ Execution Time Comparison (in seconds)_
 
-### **C++**
-
-+ Merge Sort: 0.00001175  
-+ Quick Sort: 0.000001231  
-+ Matrix Multiplication: 0.00000079  
-+ Dijkstra: 0.000001718  
-+ 0/1 Knapsack DP: 0.000004012  
-+ Karatsuba Multiplication: 0.000017366  
-
-### **Python**
-
-- Merge Sort: 0.000018667  
-- Quick Sort: 0.000009734  
-- Matrix Multiplication: 0.000008861  
-- Dijkstra: 0.000171226  
-- 0/1 Knapsack DP: 0.000014480  
-- Karatsuba Multiplication: 0.000399020  
-
-### **Java**
-
-- Quick Sort: 0.000007004  
-- Merge Sort: 0.000011712  
-- Dijkstra: 0.000603142  
-- Matrix Multiplication: 0.000001378  
-- 0/1 Knapsack DP: 0.000082493  
-- Karatsuba Multiplication: 0.022068936  
-
-### **C#**
-
-- Merge Sort: 0.000238400  
-- Quick Sort: 0.000155900  
-- Dijkstra: 0.004863800  
-- Matrix Multiplication: 0.000045300  
-- 0/1 Knapsack DP: 0.000043200  
-- Karatsuba Multiplication: 0.006018500  
-
-### **Rust**
-
-- Merge Sort: 0.000001589  
-- Quick Sort: 0.000000503  
-- Dijkstra: 0.000001146  
-- Matrix Multiplication: 0.000000636  
-- 0/1 Knapsack DP: 0.000000777  
-- Karatsuba Multiplication: 0.000014516  
 
 ## **🔍 Key Observations**
 
